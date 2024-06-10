@@ -6,4 +6,5 @@
         "typescript.tsserver.experimental.useVsCodeWatcher": false
       }
     }
+  }
 }
