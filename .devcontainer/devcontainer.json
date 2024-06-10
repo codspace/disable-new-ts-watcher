@@ -5,4 +5,5 @@
       "settings": {
         "typescript.tsserver.experimental.useVsCodeWatcher": false
       }
+    }
 }
